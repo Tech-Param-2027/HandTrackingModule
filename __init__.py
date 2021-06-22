@@ -1,0 +1,1 @@
+from HandTrackingModule import handDetector
