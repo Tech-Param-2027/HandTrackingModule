@@ -6,11 +6,11 @@
 Hello Everyone i have made an interesting module for you which you can use for many advanced projects i have made a hand tracking module which you can use in many different projects. 
 
 you need to install the following moodules listed below:
-cv2 #pip install cv2
-numpy #pip install numpy
-math #already in the system or you can try pip install math
-time #inbuilt module no need to install using external command
-mediapipe #pip install mediapipe
+cv2 #pip install cv2,
+numpy #pip install numpy,
+math #already in the system or you can try pip install math,
+time #inbuilt module no need to install using external command,
+mediapipe #pip install mediapipe,
 
 After installing all the modules you can install my handtracking module files and save it in your roject directory to use it in your project.
 after installing the files You can import it by using the comman import HandTrackingModule or after install whatever name you changed pls use correct name to import.
